@@ -1,3 +1,4 @@
+
 # Hi there 👋 I'm Shivanshi Shukla
 
 💻 B.Tech CSE Student | AI & ML Enthusiast  
@@ -56,17 +57,18 @@ Exploring deep learning architectures and intelligent systems to solve applied p
 
 ## 📊 GitHub Stats
 
-![Shivanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanshishukla&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshishukla&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=shivanshishukla&theme=tokyonight)
+![Shivanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivee11code&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivee11code&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shivee11code&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanshishukla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivee11code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshi-shukla-29a186288/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivicoding11/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivanshiofficial11@gmail.com)
 
 ---
 
